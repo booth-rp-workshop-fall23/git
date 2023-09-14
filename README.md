@@ -1,6 +1,4 @@
-# DIL Git and GitHub training
-
-## Just messing around
+# Git and GitHub training
 
 ## Intro to Git
 
