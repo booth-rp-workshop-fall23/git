@@ -2,7 +2,6 @@
 
 Hello world 
 
-New line
 ## Intro to Git
 
 This session introduces basic concepts of git such as commits, repositories, and branches and shows how to work on git through GitHub Desktop. 
